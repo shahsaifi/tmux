@@ -1,1 +1,1 @@
-# dotfiles
+# tmux -- terminal multiplexer config 
